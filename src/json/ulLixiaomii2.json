@@ -1,0 +1,34 @@
+[
+    {
+        "id": 9,
+        "name": "小米10至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「最高享12期免息，低至317元起/期；可使用北京消费券；购机尊享特惠加价购」</font>骁龙865处理器 / 1亿像素8K电影相机 / 双模5G / 新一代LPDDR5内存 / 对称式立体声 / 90Hz刷新率+180Hz采样率 / UFS 3.0高速存储 / 全面适配Wi-Fi 6 / 超强VC液冷散热 / 30W极速闪充+30W无线闪充+10W无线反充 / 4780mAh大电量 / 多功能NFC",
+        "imgpath": "./img/mi-index/box-cp3.png",
+        "price": 2222,
+        "detailsImg": "../img/mi-index/details3.png"
+    },
+    {
+        "id": 10,
+        "name": "小米9至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp3.png",
+        "price": 3333,
+        "detailsImg": "../img/mi-index/details3.png"
+    },
+    {
+        "id": 11,
+        "name": "小米8至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「最高享12期免息，低至317元起/期；可使用北京消费券；购机尊享特惠加价购」</font>骁龙865处理器 / 1亿像素8K电影相机 / 双模5G / 新一代LPDDR5内存 / 对称式立体声 / 90Hz刷新率+180Hz采样率 / UFS 3.0高速存储 / 全面适配Wi-Fi 6 / 超强VC液冷散热 / 30W极速闪充+30W无线闪充+10W无线反充 / 4780mAh大电量 / 多功能NFC",
+        "imgpath": "./img/mi-index/box-cp3.png",
+        "price": 4444,
+        "detailsImg": "../img/mi-index/details3.png"
+    },
+    {
+        "id": 12,
+        "name": "小米6至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp3.png",
+        "price": 5555,
+        "detailsImg": "../img/mi-index/details3.png"
+    }
+]

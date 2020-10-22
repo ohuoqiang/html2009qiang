@@ -1,0 +1,101 @@
+.wrapper{
+    width: 100%;
+    background:  #f9f9f9;
+    height: 100%;
+    padding-top:30px ;
+}
+.wrap{
+    height:560px ;
+    width: 854px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 0 34px 40px;
+    box-sizing: border-box;
+}
+.device-frame>h3{
+   text-align: center;
+   font-size: 30px;
+   font-weight: normal;
+   color: #333;
+   line-height: 1.5;
+}
+.external_logo_area{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.device-frame>form{
+    width: 332px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+.device-frame>form>h4{
+    padding-bottom: 5px;
+    color: #333;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+input[type="password"]{
+    width: 308px;
+    height: 24px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    }
+.device-frame div>i{
+    width: 54px;
+    padding-left: 14px;
+    height: 40px;
+}
+input[type="text"]{
+    border: none;
+    width: 240px;
+    height: 24px;
+    padding: 10px;
+}
+.aa{
+    border: 1px solid #ccc;
+}
+.device-frame p{
+color: #666;
+font-size: 14px;
+margin-bottom: 10px;
+margin-top: 5px;
+}
+input[type="submit"]{
+    border: none;
+    color: #fff;
+    background: #ff6700;
+    width: 332px;
+    height: 42px;
+    margin-top: 30px;
+}
+input[type="button"]:hover{
+    opacity: 0.5;
+}
+
+
+.nf-link-area>ul>li{
+    
+    display: inline-block;
+    padding: 0px 10px;
+
+}
+.nf-link-area{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 14px;
+}
+.nf-link-area>p{
+    padding: 10px;
+}
+
+.device-frame>p{
+    padding-top: 40px;
+    text-align: center;
+}
+.device-frame>p>i{
+    color: #333;
+    font-weight: bold;
+}

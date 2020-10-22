@@ -1,0 +1,34 @@
+/*                            _ooOoo_
+//                           o8888888o
+//                           88" . "88
+//                           (| -_- |)
+//                            O\ = /O
+//                        ____/`---'\____
+//                      .   ' \\| |// `.
+//                       / \\||| : |||// \
+//                     / _||||| -:- |||||- \
+//                       | | \\\ - /// | |
+//                     | \_| ''\---/'' | |
+//                      \ .-\__ `-` ___/-. /
+//                   ___`. .' /--.--\ `. . __
+//                ."" '< `.___\_<|>_/___.' >'"".
+//               | | : `- \`.;`\ _ /`;.`/ - ` : | |
+//                 \ \ `-. \_ __\ /__ _/ .-` / /
+//         ======`-.____`-.___\_____/___.-`____.-'======
+//                            `=---='
+//
+//         .............................................
+//                  佛主保佑                  永无BUG
+*/
+html,body,ol,ul,li,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0;}
+li{list-style:none;}
+a,u,ins{text-decoration: none; color: #000;}
+img{border:0; vertical-align: middle;}/* display:block;  vertical-align: middle;解决图片默认三像素的空隙问题 */
+h1,h2,h3,h4,h5,h6{font-weight: normal;}
+body{font-size: 12px;}		
+em,i{font-style: normal;}
+strong,b{font-weight: normal;}
+input{outline: none;}/* 取消input 聚焦时产生的蓝色框  */
+.l{float: left;}	
+.r{float: right;}
+.clearfix:after{content: "";clear:both;display: block;overflow: hidden;visibility: hidden;}

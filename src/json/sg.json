@@ -1,0 +1,134 @@
+[
+    {
+        "id": 13,
+        "name": "小米10至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp1.png",
+        "price": 2222,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details1.jpg"
+    },
+    {
+        "id": 14,
+        "name": "小米9至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp2.jpg",
+        "price": 3333,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details2.png"
+    },
+    {
+        "id": 15,
+        "name": "小米8至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp3.png",
+        "price": 4444,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details3.png"
+    },
+    {
+        "id": 16,
+        "name": "小米6至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp4.png",
+        "price": 5555,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details4.png"
+    },
+    {
+        "id": 13,
+        "name": "小米10至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp5.png",
+        "price": 2222,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details5.png"
+    },
+    {
+        "id": 14,
+        "name": "小米9至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp6.png",
+        "price": 3333,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details6.jpg"
+    },
+    {
+        "id": 15,
+        "name": "小米8至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp7.png",
+        "price": 4444,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details7.png"
+    },
+    {
+        "id": 16,
+        "name": "小米6至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp1.png",
+        "price": 5555,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details1.jpg"
+    },
+    {
+        "id": 13,
+        "name": "小米10至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp2.jpg",
+        "price": 2222,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details2.png"
+    },
+    {
+        "id": 14,
+        "name": "小米9至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp3.png",
+        "price": 3333,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details3.png"
+    },
+    {
+        "id": 15,
+        "name": "小米8至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp4.png",
+        "price": 4444,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details4.png"
+    },
+    {
+        "id": 16,
+        "name": "小米6至尊纪念版",
+        "inrtodution": "<font color='#ff4a00'>「十年献礼之作！最高享24期免息，低至221元起/期；加149元得199元55W立式风冷无线充；加69元得皮革保护壳」</font>120X 超远变焦 / 120W秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 /双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+        "imgpath": "./img/mi-index/box-cp5.png",
+        "price": 5555,
+        "h3": "定频 | 米家互联网立式空调 2匹",
+        "des": "高效制冷热，出众静音",
+        "del": 1000,
+        "detailsImg": "http://localhost/mi_project/img/mi-index/details5.png"
+    }
+]

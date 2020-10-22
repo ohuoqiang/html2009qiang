@@ -1,0 +1,139 @@
+.h_panel{
+    width: 1130px;
+    margin: 0 auto;
+    background: #fff;
+}
+.h_panel>a>img{
+width: 200px;
+height: 98px;
+}
+
+.login_banner_panel{
+    width: 1522.8px;
+    height: 588px;
+    background: url(../img/mi-index/login_banner.jpg)no-repeat -520px 0px;
+    position: relative;
+    margin: 0 auto;
+    
+}
+
+.nav-tabs{
+    padding: 27px 0 24px 0;
+   position: absolute;
+   left: 920px;
+   top: 30px;
+   width: 410px;
+   height: 43px;
+   line-height: 43px;
+   background: #fff;
+   text-align: center;
+}
+.nav-tabs>a{
+    text-align: center;
+    font-size: 24px;
+}
+.line{
+    width: 1px;
+    height: 24px;
+    margin: 0 35px 0 42px;
+    border: 1px solid #e0e0e0;
+    background: #e0e0e0;
+    text-align: center;
+    font-size: 24px;
+    color: #666;
+}
+
+.onc{
+    color:#f56600;
+}
+
+.login_area{
+    width: 410px;
+    height: 446.6px;
+    position: relative;
+    left: 920px;
+    top: 124px;
+    background: #fff;
+    padding: 0px 31px;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+.login_area>form>input{
+    display: block;
+    width: 346px;
+    height: 48px;
+    border: 1px solid #e0e0e0;
+    box-sizing: border-box;
+}
+input[type="text"]{
+   
+    height: 22px;
+    line-height: 22px;
+    padding: 13px 16px 13px 14px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+input[type="password"]{
+    height: 22px;
+    line-height: 22px;
+    padding: 13px 16px 13px 14px;
+    display: block;
+    margin-bottom: 25px;
+}
+input[type="submit"]{
+    background: #ff6700;
+    color: #fff;
+    margin-bottom: 14px;
+    font-size: 14px;
+    color: #fff;
+    cursor: pointer;
+}
+.sms_link{
+    display: inline-block;
+    color: #ff6700;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.extra-links>a,.extra-links>span{
+color: #999999;
+font-size: 14px;
+}
+.extra-links>span{
+    padding-left: 5px;
+}
+.extra-links>a:hover{
+    color: #ff6700;
+}
+
+.nf-link-area>ul>li{
+    
+    display: inline-block;
+    padding: 0px 10px;
+
+}
+.nf-link-area{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 14px;
+}
+.nf-link-area>p{
+    padding: 10px;
+    
+}
+.login_area:nth-child(3){
+    display: none;
+}
+.login_area:nth-child(3)>p{
+font-size: 14px;
+color: #757575;
+}
+.login_area:nth-child(3)>p>i{
+    color: #f56600;
+}
+.login_area:nth-child(3)>img{
+    margin-bottom: 14px;
+}
